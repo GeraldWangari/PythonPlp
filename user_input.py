@@ -1,0 +1,5 @@
+name = input("Welcome, please input your name\n")
+print("Welcome back {name}, Its good to have you back\n")
+age = int(input("How old are you?\n"))
+location = input("What do you currently reside? \n")
+print(f"Your status is : {name}, {age} year old currently residing in {location}")
